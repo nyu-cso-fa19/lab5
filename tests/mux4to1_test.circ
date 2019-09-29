@@ -296,7 +296,7 @@ end TCL_Generic;
       <a name="width" val="2"/>
       <a name="label" val="Sel"/>
     </comp>
-    <comp lib="10" loc="(270,590)" name="Mut4to1"/>
+    <comp lib="10" loc="(270,590)" name="Mux4to1"/>
     <comp lib="0" loc="(160,700)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="2"/>

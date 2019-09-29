@@ -1,6 +1,8 @@
 #!/bin/bash
 
-if [ "$#" -gt 0 ]; then
+if [ "$#" -eq 0 ]; then
+  PART="all"
+elif [ "$#" -gt 0 ]; then
   PART="$1"
 fi
 
